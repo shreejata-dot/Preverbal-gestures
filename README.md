@@ -1,5 +1,6 @@
 # Preverbal gestures
 This repository provides annotation scheme for longitudinal analyses of gesture types, their semantic and pragmatic functions as well as meanings in the first 3 years of life.
+Collaborators: Lucie Greco, Eulalie Pequay, Clément François, Isabelle Dautriche
 
 
 While we speak, we gesture simultaneously. These co-speech gestures have distinct categories and add semantic and pragmatic meanings to the spoken content.
@@ -28,3 +29,8 @@ Our objective is to test whether the different types of gestures found in infant
 
 The beauty of this coding scheme is that it can be applied to identify gesture types in children and adults, as we have done [here](https://github.com/shreejata-dot/gestures-in-conversations)
 Moreover, this coding scheme can also be used to examine how gestures align with pre-speech vocalisations and emerging speech in infants, like [here](https://github.com/shreejata-dot/gesture-vocal-alignment), as well as co-speech gesture alignlent, as [here](https://github.com/shreejata-dot/gestures-in-conversations)
+
+
+## Follow-up paper
+
+We conducted annotation for the 6 infants upto 36-months of age to look at the developmental changes in gesture forms, functions and meanings in the first three years of life. The article is in review. So watch this space for more!
