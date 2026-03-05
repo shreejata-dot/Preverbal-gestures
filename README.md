@@ -1,7 +1,12 @@
 # Preverbal gestures
-##Problem : Infants, before speech acquisition, use their bodies to produce communicative gestures. These are complex, often ambiguous signlas which seldom make meaningful sense without speech, making interpretation difficult for both researchers and caregivers.
-##Challenge : My challenge was to convert these messy signals into structured, analyzable patterns.
-##Approach : As a multistep approach, I annotated video recordings of infant-caregiver interactions from their 12- to 15-months of age and adopted behavioural coding schema from non-human primate gestural communciation studies (non-linguistic system) to derive communicative meaning in these preverbal interactions.
+I will illustrate a recently completed project (Gupta et al., 2024, Infancy) that reflects how my research centres around transforming individual behaviours into designing interpretability systems. 
+In this project, I worked with video recordings of 12- to 15-month old infants’ preverbal interactions with their caregivers. 
+
+## Problem
+Infants, before speech acquisition, use vocalisations and bodily gestures to interact multimodally. Without an objective framework, these ambiguous signals are at risks of mis interpretation across observers and caregivers. My challenge was to design a pipeline for video annotation, data analyses and interpretation to enable converting these messy signals into meaningful information, accessible to all stakeholders. 
+## Solution
+I a achieved this with a multistep approach : First, I adopted a standardised behavioural coding scheme used to derive meaning in non-linguistic signals in non-humans primates (Gupta & Sinha, 2019), and extended it to identify preverbal multimodal signals in human infants. Using this coding shceme I annotated large video datasets, evaluated validity of the coding scheme quantifying reliability scores across naive coders, conducted traditional statistical and unsupervised classification analyses to finally derive meaning of infant-adult interactions.  
+
 
 This repository provides annotation scheme for longitudinal analyses of gesture types, their semantic and pragmatic functions as well as meanings in the first 3 years of life.
 
@@ -44,3 +49,7 @@ Moreover, this coding scheme can also be used to examine how gestures align with
 ## Follow-up paper
 
 We conducted annotation for the 6 infants upto 36-months of age to look at the developmental changes in gesture forms, functions and meanings in the first three years of life. The article is in review. So watch this space for more!
+
+
+## Related projects
+For example, the same workflow is now been applied to analyse gestyre-vocal alignment in infants (https://github.com/shreejata-dot/gesture-vocal-alignment) and conversations between adults and children to study the pragmatic role of co-speech gestures in face-to-face interactions (https://github.com/shreejata-dot/gestures-in-conversations ). 
